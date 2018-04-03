@@ -99,6 +99,7 @@ There's an experimental patch for windows in this [PR](https://github.com/udacit
 3. Compile: `cmake .. && make`
 4. Run it: `./pid`. 
 
+
 Tips for setting up your environment can be found [here](https://classroom.udacity.com/nanodegrees/nd013/parts/40f38239-66b6-46ec-ae68-03afd8a601c8/modules/0949fca6-b379-42af-a919-ee50aa304e6a/lessons/f758c44c-5e40-4e01-93b5-1a82aa4e044f/concepts/23d376c7-0195-4276-bdf0-e02f1f3c665d)
 
 ## Editor Settings
@@ -159,4 +160,10 @@ still be compilable with cmake and make./
 
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+
+## Reference 
+
+David Silver's Question Answer video (https://www.youtube.com/watch?v=YamBuzDjrs8&feature=youtu.be) 
+P.I.D controller Wikipedia (https://en.wikipedia.org/wiki/PID_controller) 
+For an idea on parameters i reffered to this repo (https://github.com/mvirgo/PID-Control-Project) 
 
